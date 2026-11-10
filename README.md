@@ -1,6 +1,6 @@
 # Awesome-Centralized-API-Specifications-Repository
 
-# Top Centralized API Specifications Repository Ecosystem
+## Top Centralized API Specifications Repository Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on API Specification Management, Schema Governance & Developer Catalog Discovery*  
