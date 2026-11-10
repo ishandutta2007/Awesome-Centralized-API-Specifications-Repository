@@ -59,7 +59,7 @@ The table below highlights leading hosted platforms and SaaS tools for centraliz
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source registries, schema storage services, developer catalogs, and spec-first linters. Repositories are sorted by GitHub Stars_Count (descending) 🌟:
+Explore the top open-source registries, schema storage services, developer catalogs, and spec-first linters. Repositories are sorted by GitHub_Stars_Count (descending) 🌟:
 
 | 📦 Project | 🌟 GitHub_Stars | 🛠️ Primary Purpose & Specification Capabilities | 📜 License |
 | :--- | :--- | :--- | :--- |
