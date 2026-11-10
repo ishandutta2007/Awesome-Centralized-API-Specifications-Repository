@@ -59,9 +59,9 @@ The table below highlights leading hosted platforms and SaaS tools for centraliz
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source registries, schema storage services, developer catalogs, and spec-first linters. Repositories are sorted by GitHub star count (descending) 🌟:
+Explore the top open-source registries, schema storage services, developer catalogs, and spec-first linters. Repositories are sorted by GitHub Stars_Count (descending) 🌟:
 
-| 📦 Project | 🌟 Stars | 🛠️ Primary Purpose & Specification Capabilities | 📜 License |
+| 📦 Project | 🌟 GitHub_Stars | 🛠️ Primary Purpose & Specification Capabilities | 📜 License |
 | :--- | :--- | :--- | :--- |
 | **[Kong Insomnia](https://github.com/Kong/insomnia)** | [![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers) | Collaborative desktop and cloud-synced API development platform for designing, debugging, and testing OpenAPI, GraphQL, REST, and gRPC specs. | Apache-2.0 |
 | **[Backstage](https://github.com/backstage/backstage)** | [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Spotify's CNCF Incubation developer portal framework featuring a centralized software catalog for microservice APIs, tech documentation, and plugins. | Apache-2.0 |
@@ -123,7 +123,7 @@ We welcome additions of new tools, registries, and linters! ✨
 1. **Fork the repository** to your own GitHub account 🍴.
 2. **Add or update entries** in `README.md`:
    - For SaaS products, include company valuation/revenue scale, starting price, and specific free tier limits.
-   - For Open-Source repositories, include repo link, social star badge `https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white` linking to the stargazers page, description, and license.
+   - For Open-Source repositories, include repo link, social Stars_Badge `https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white` linking to the stargazers page, description, and license.
 3. **Maintain alphabetical or sorted order** within each respective section.
 4. **Submit a Pull Request** with a descriptive title and summary of changes 🚀.
 
